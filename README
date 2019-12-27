@@ -1,2 +1,2 @@
 This is a fun project which focused on examining UFO data from around the world. Statistical information regarding UFO sighting consentrations was gathered. Machine learning was applied to see if there was any hope in finding a pattern in these sightings; none was. 
-The file contains multiple charts and graphs made in Plotly which unfortunatly do not appear when uploaded to github.
+The file contains multiple interactive charts and graphs made in Plotly which unfortunatly do not appear when uploaded to github.
